@@ -30,6 +30,7 @@ The training parameters were define at parameters.py
 <br>
 ![training](training.jpeg)
 <br>
+
 ## Evaluate the model
 <p>
 The evaluation parameters were define at parameters.py<br>
