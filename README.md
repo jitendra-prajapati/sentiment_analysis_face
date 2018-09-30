@@ -26,7 +26,7 @@ The training parameters were define at parameters.py
 </p>
 <code>python train.py --train=yes</code>
 <br>
-
+<br>
 ![training](training.jpeg)
 
 <br>
