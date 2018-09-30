@@ -20,8 +20,6 @@ For our experiments, we used  CNN models:
 Download Fer2013(Kaggle Fer2013 challenge) dataset and the Face Landmarks model(Dlib Shape Predictor model)
 </p>
 
-<br>
-
 ## Train the model
 <p>
 The training parameters were define at parameters.py
@@ -36,10 +34,11 @@ The training parameters were define at parameters.py
 The evaluation parameters were define at parameters.py<br>
 Set "save_model_path" parameter to the path of your pretrained file.
 </p>
-<code>python train.py --evaluate=yes</code>
+<code> python train.py --evaluate=yes </code>
 <br>
-![training](evaluation.jpeg)
-<br>
+
+![evaluate](evaluation.jpeg)
+
 
 ## Prediction the model
 <p>
