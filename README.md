@@ -26,7 +26,9 @@ The training parameters were define at parameters.py
 </p>
 <code>python train.py --train=yes</code>
 <br>
+
 ![training](training.jpeg)
+
 <br>
 
 ## Evaluate the model
@@ -35,6 +37,7 @@ The evaluation parameters were define at parameters.py<br>
 Set "save_model_path" parameter to the path of your pretrained file.
 </p>
 <code> python train.py --evaluate=yes </code>
+<br>
 <br>
 
 ![evaluate](evaluation.jpeg)
@@ -48,12 +51,18 @@ Set "save_model_path" parameter to the path of your pretrained file.
 <code>python index.py --image=sample1.png</code>
 <br>
 <p>Extract face from input image </p>
+
 ![input](sample2.png)
+
 <br>
+
 ![extracted](extract_sample.PNG)
+
 <br>
 <p>Then prediction on each image </p>
+
 ![predition](preditions.jpeg)
+
 <br>
 
 
