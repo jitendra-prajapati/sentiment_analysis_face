@@ -12,6 +12,7 @@ from data_loader import load_data
 from parameters import DATASET, TRAINING, HYPERPARAMS, NETWORK
 from model import build_model
 
+#define train
 def train(optimizer=HYPERPARAMS.optimizer, optimizer_param=HYPERPARAMS.optimizer_param, 
         learning_rate=HYPERPARAMS.learning_rate, keep_prob=HYPERPARAMS.keep_prob, 
         learning_rate_decay=HYPERPARAMS.learning_rate_decay, decay_step=HYPERPARAMS.decay_step,
