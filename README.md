@@ -14,6 +14,7 @@ For our experiments, we used  CNN models:
 ![model_architecture](CNN_models.png)
 
 <br>
+<br>
 
 ## Download and prepare the data
 <p>
